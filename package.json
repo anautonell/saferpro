@@ -1,5 +1,5 @@
 {
-  "name": "discordcaptcha",
+  "name": "Safer",
   "version": "5.0.0",
   "description": "A verification bot",
   "main": "src/run.js",
